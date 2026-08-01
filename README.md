@@ -24,7 +24,7 @@ Download the latest pre-compiled binary directly from the [Releases](https://git
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/lamefate22/zsh-setup.git](https://github.com/lamefate22/zsh-setup.git)
+   git clone https://github.com/lamefate22/zsh-setup.git
    ```
 2. Build the project:
    ```bash
