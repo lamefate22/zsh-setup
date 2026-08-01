@@ -1,0 +1,11 @@
+[package]
+name = "zsh-setup"
+version = "0.9.0"
+edition = "2024"
+
+[dependencies]
+tracing-subscriber = { version = "0.3.23", features = ["time"] }
+thiserror = "2.0.19"
+tracing = "0.1.44"
+which = "8.0.5"
+time = "0.3.55"
